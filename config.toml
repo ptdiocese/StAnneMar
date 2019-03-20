@@ -25,8 +25,8 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "CONTACT"
-    url  = "/contact/"
+    name = "NEWS"
+    url  = "/doc/"
     weight = 3
 
 [[menu.main]]
