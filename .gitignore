@@ -5,4 +5,5 @@
 public/*
 public/
 clipboard.txt
-.DS_Store
+*/.DS_Store
+/.DS_Store
