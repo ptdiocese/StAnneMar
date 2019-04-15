@@ -8,14 +8,14 @@
     <div id="all">
 
         <header>
-
+{{ partial "top.html" . }}
           {{ partial "nav.html" . }}
 
         </header>
 
         {{ partial "breadcrumbs.html" . }}
 
-        <div id="content">
+        <div id="content" class="pb-4">
             {{ if isset .Params "id" }}
 
               {{ partial .Params.id . }}
@@ -23,11 +23,13 @@
             {{ else }}
 
             <div class="container">
-
+              <section class="bar">
                 <div class="row">
 
-                    <div class="col-md-12">
-
+                    <div class="col-md-12 col-lg-12">
+                      <div class="heading">
+                          <h2>{{ .Params.heading }}</h2>
+                      </div>
                         <div>
                           {{ .Content }}
                         </div>
@@ -36,7 +38,7 @@
 
                 </div>
                 <!-- /.row -->
-
+              </section>
             </div>
             <!-- /.container -->
 

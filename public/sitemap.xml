@@ -48,6 +48,10 @@
   </url>
   
   <url>
+    <loc>/custom_html/</loc>
+  </url>
+  
+  <url>
     <loc>/doc/</loc>
     <lastmod>2018-12-20T15:43:56+00:00</lastmod>
     <priority>0</priority>
