@@ -72,7 +72,7 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/Artboard-1.svg" # change
+    #logo = "img/Artboard-1.svg" # change
     #address = """<p><strong>Our Lady of the Rosary Catholic Church</strong>
     #    <br>5622 JULIE DRIVE
     #    <br>HIGHWAY 231 BAYOU GEORGE
