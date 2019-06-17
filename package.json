@@ -1,0 +1,24 @@
+{
+  "name": "site-clone-final-copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptdiocese/site-clone-final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptdiocese/site-clone-final/issues"
+  },
+  "homepage": "https://github.com/ptdiocese/site-clone-final#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
