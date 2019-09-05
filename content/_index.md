@@ -30,11 +30,9 @@ front_boxes:
       http://www.churchdb.com/churchdb/SelfRegister.asp?PAGE=REGISTRATION_PAGE&iOrgzKey=77&ddlSite=582
 front_more_img: ''
 front_more_heading: PARISH HALL RENTAL
-front_more_text: >-
-  Rename these sections!!!! Also, what will this button do for other
-  parishes????
-front_more_button_text: Hall Rental Form
-front_more_button_url: /docs/RENTAL-form.pdf
+front_more_text: ''
+front_more_button_text: ''
+front_more_button_url: ''
 front_last_bg_img: ''
 front_last_heading: ''
 front_last_text_lead: ''
