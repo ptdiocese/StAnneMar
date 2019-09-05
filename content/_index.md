@@ -26,7 +26,8 @@ front_boxes:
       https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=Fi1giPL8kwX_Oe1AO50jRpD4Ri1ipMz8SjtO-fInVtuhjXsUKRLlmI4vCU4-rZZZ2EvVVAEjqawDomKT1pbouYCLiHsYNviTLNfVAvw7pMg=&ver=3
   - heading: Register
     icon: fa fa-user-plus
-    url: 'https://google.com'
+    url: >-
+      http://www.churchdb.com/churchdb/SelfRegister.asp?PAGE=REGISTRATION_PAGE&iOrgzKey=77&ddlSite=582
 front_more_img: ''
 front_more_heading: PARISH HALL RENTAL
 front_more_text: >-
