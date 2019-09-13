@@ -1,7 +1,7 @@
 ---
 title: Home
-jumbotron_bg_img: /img/st.-joseph-chipley.png
-jumbotron_logo_img: /img/st.-joseph-chipley.png
+jumbotron_bg_img: /img/st.-joseph-the-worker-1.jpg
+jumbotron_logo_img: /img/st.-joseph-the-worker-1.jpg
 alert: false
 alert_announcement: Important announcement
 welcome_message_heading: WELCOME TO ST. JOSEPH THE WORKER PARISH
