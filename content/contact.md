@@ -10,7 +10,7 @@ staff_heading: Our Staff
 staff_subtext: |+
 
 staff:
-  - contact: fortinp@clergy.ptdiocese.org
+  - contact: pastorsaintanne@gmail.com
     img: /img/philfortin-1.jpg
     name: Fr. Phil Fortin
     title: Pastor
