@@ -4,8 +4,8 @@ title: Contact Us
 heading: Contact Us
 top_content_heading: WE ARE HERE TO HELP YOU
 top_content: >-
-  Please reach us at St. Anne Parish office in Marianna between 9 - 12, Mon -
-  Thu.
+  Please reach us at St. Anne Parish office in Marianna between 9 - 2, Wednesday
+  - Friday
 staff_heading: Our Staff
 staff_subtext: |+
 
