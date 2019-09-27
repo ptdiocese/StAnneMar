@@ -3,7 +3,7 @@ title: Home
 jumbotron_bg_img: /img/st.-joseph-the-worker-1.jpg
 jumbotron_logo_img: /img/st.-joseph-the-worker-1.jpg
 alert: false
-alert_announcement: Important announcement
+alert_announcement: 'Fall Clean up is October 19, 2019 @ 8:00 AM.'
 welcome_message_heading: WELCOME TO ST. JOSEPH THE WORKER PARISH
 welcome_message: >-
   We, the parish community of St. Joseph the Worker, in Chipley, Florida, seek
