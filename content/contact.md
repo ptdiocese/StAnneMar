@@ -3,9 +3,7 @@ layout: contact
 title: Contact Us
 heading: Contact Us
 top_content_heading: WE ARE HERE TO HELP YOU
-top_content: >-
-  Please reach us at St. Anne Parish office in Marianna between 9 - 2, Wednesday
-  - Friday
+top_content: 'Please reach us at 850-638-7654 Tuesdays 8:00 am to 11:00 am'
 staff_heading: Our Staff
 staff_subtext: |+
 
