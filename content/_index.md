@@ -3,7 +3,7 @@ title: Home
 jumbotron_bg_img: /img/st.-joseph-the-worker-1.jpg
 jumbotron_logo_img: /img/st.-joseph-the-worker-1.jpg
 alert: true
-alert_announcement: 'Thanksgiving Mass is at 9:00 AM'
+alert_announcement: 'Advent Penance at 5:30 PM'
 welcome_message_heading: WELCOME TO ST. JOSEPH THE WORKER PARISH
 welcome_message: >-
   We, the parish community of St. Joseph the Worker, in Chipley, Florida, seek
