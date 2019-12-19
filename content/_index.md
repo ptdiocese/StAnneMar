@@ -3,7 +3,7 @@ title: Home
 jumbotron_bg_img: /img/st.-joseph-the-worker-1.jpg
 jumbotron_logo_img: /img/st.-joseph-the-worker-1.jpg
 alert: true
-alert_announcement: 'Advent Penance at 5:30 PM on Tuesday, December 17th '
+alert_announcement: 'Christmas Vigil Mass at 5:00 PM, Christmas Day Mass at 11:00 AM'
 welcome_message_heading: WELCOME TO ST. JOSEPH THE WORKER PARISH
 welcome_message: >-
   We, the parish community of St. Joseph the Worker, in Chipley, Florida, seek
