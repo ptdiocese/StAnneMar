@@ -3,7 +3,9 @@ title: Home
 jumbotron_bg_img: /img/st.-joseph-the-worker-1.jpg
 jumbotron_logo_img: /img/st.-joseph-the-worker-1.jpg
 alert: true
-alert_announcement: 'Christmas Vigil Mass at 5:00 PM, Christmas Day Mass at 11:00 AM'
+alert_announcement: >-
+  No Regular Mass on Tuesday, December 31st.  Solemnity of Mary, the Mother of
+  God Mass is Wednesday, January 1st at 9:00 AM. 
 welcome_message_heading: WELCOME TO ST. JOSEPH THE WORKER PARISH
 welcome_message: >-
   We, the parish community of St. Joseph the Worker, in Chipley, Florida, seek
