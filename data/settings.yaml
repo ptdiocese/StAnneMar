@@ -12,7 +12,7 @@ site_email: stjoe@chipley.ptdiocese.org
 site_churchDBURL: >-
   https://www.churchdb.com/churchdb/SelfRegister.asp?PAGE=REGISTRATION_PAGE&iOrgzKey=77&ddlSite=582
 site_eGiving: >-
-  https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=wWsk24ZWJSTZKsGd1RMKlg0BDvsSG3VIWQCPJNNxD8upkiY7JlDavDsozUE7KG0nFx2NSo8LdUKGuGuF396vbaYcCKqhsvRulOdpuwZitcWXHubq5Z7ap5JVmPErc4ZeYHCKCZhESjGNQmZ5B-6dx4sVmP9CHfKXJn-GdXOFl6g=&ver=3
+  https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=wWsk24ZWJSTZKsGd1RMKlg0BDvsSG3VIWQCPJNNxD8upkiY7JlDavDsozUE7KG0nFx2NSo8LdUKGuGuF396vbWH3TIA8XXMyXqcNUI53UrWXHubq5Z7ap5JVmPErc4ZeYHCKCZhESjGNQmZ5B-6dx0tDU89pDxCaZy75yKfIq4U=&ver=3
 site_navbar_img: /img/logo-nav.png
 site_footer_img: ''
 site_topbar_enable: true
