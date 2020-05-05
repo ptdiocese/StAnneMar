@@ -3,7 +3,7 @@ title: Home
 jumbotron_bg_img: /img/st.-joseph-the-worker-1.jpg
 jumbotron_logo_img: /img/st.-joseph-the-worker-1.jpg
 alert: true
-alert_announcement: 'Masses and Stations of the Cross have been Cancelled, until further notice. '
+alert_announcement: 'Masses will resume on Sunday, May 10, 2020'
 welcome_message_heading: WELCOME TO ST. JOSEPH THE WORKER PARISH
 welcome_message: >-
   We, the parish community of St. Joseph the Worker, in Chipley, Florida, seek
