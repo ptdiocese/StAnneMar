@@ -3,7 +3,9 @@ title: Home
 jumbotron_bg_img: /img/st.-joseph-the-worker-1.jpg
 jumbotron_logo_img: /img/st.-joseph-the-worker-1.jpg
 alert: true
-alert_announcement: ''
+alert_announcement: >-
+  June 25-26 Burse Club Membership Drive - Check out the Bishop's letter under
+  Documents
 welcome_message_heading: WELCOME TO ST. JOSEPH THE WORKER PARISH
 welcome_message: >-
   We, the parish community of St. Joseph the Worker, in Chipley, Florida, seek
