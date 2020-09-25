@@ -1,14 +1,14 @@
 ---
 title: Home
-jumbotron_bg_img: /img/st.-joseph-the-worker-1.jpg
-jumbotron_logo_img: /img/st.-joseph-the-worker-1.jpg
-alert: true
+jumbotron_bg_img: /img/st.-anne-marianna.png
+jumbotron_logo_img: /img/st.-anne-marianna.png
+alert: false
 alert_announcement: ''
 welcome_message_heading: WELCOME TO ST. JOSEPH THE WORKER PARISH
 welcome_message: >-
-  We, the parish community of St. Joseph the Worker, in Chipley, Florida, seek
-  to reach out to all of God`s children and to foster a friendly and supportive
-  community feeling that personifies our Parish
+  We, the parish community of St. Anne, in Marianna, Florida, seek to reach out
+  to all of God`s children and to foster a friendly and supportive community
+  feeling that personifies our Parish
 
   We would love for you to join us for Mass!
 welcome_message_button_text: Get Directions
