@@ -4,7 +4,7 @@ jumbotron_bg_img: /img/st.-anne-marianna.png
 jumbotron_logo_img: /img/st.-anne-marianna.png
 alert: false
 alert_announcement: ''
-welcome_message_heading: WELCOME TO ST. JOSEPH THE WORKER PARISH
+welcome_message_heading: 'WELCOME TO ST. ANNE PARISH, in MARIANNA, FLORIDA'
 welcome_message: >-
   We, the parish community of St. Anne, in Marianna, Florida, seek to reach out
   to all of God`s children and to foster a friendly and supportive community
@@ -12,7 +12,7 @@ welcome_message: >-
 
   We would love for you to join us for Mass!
 welcome_message_button_text: Get Directions
-welcome_message_button_URL: 'https://goo.gl/maps/iD4YrYEkhvAtLzb2A'
+welcome_message_button_URL: 'https://goo.gl/maps/ZQ4dUsx9tz8cBzEd8'
 front_boxes:
   - heading: Schedule
     icon: fa fa-bell-o
