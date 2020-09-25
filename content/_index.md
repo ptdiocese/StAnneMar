@@ -12,7 +12,7 @@ welcome_message: >-
 
   We would love for you to join us for Mass!
 welcome_message_button_text: Get Directions
-welcome_message_button_URL: 'https://goo.gl/maps/iD4YrYEkhvAtLzb2A'
+welcome_message_button_URL: 'https://goo.gl/maps/ZQ4dUsx9tz8cBzEd8'
 front_boxes:
   - heading: Schedule
     icon: fa fa-bell-o
