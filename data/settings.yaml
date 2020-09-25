@@ -1,16 +1,15 @@
-site_title: St. Joseph the Worker Parish
+site_title: St. Anne Parish
 site_address: 1664 Main St.
 site_city: Chipley
 site_state: FL
 site_zip: '32428'
-site_latitude: '30.753439'
-site_longitude: '-85.553748'
-site_direction: 'https://goo.gl/maps/iD4YrYEkhvAtLzb2A'
-site_phone: 850-638-7654 or 850-482-3734
-site_fax: 850-482-7241
-site_email: stjoe@chipley.ptdiocese.org
-site_churchDBURL: >-
-  https://www.churchdb.com/churchdb/SelfRegister.asp?PAGE=REGISTRATION_PAGE&iOrgzKey=77&ddlSite=582
+site_latitude: '30.784752'
+site_longitude: '-85.237895'
+site_direction: 'https://goo.gl/maps/ZQ4dUsx9tz8cBzEd8'
+site_phone: 850-482-3734
+site_fax: ''
+site_email: stanne@stannemar.ptdiocese.org
+site_churchDBURL: ptdiocese.org/mpwidgets
 site_eGiving: >-
   https://www.eservicepayments.com/cgi-bin/Vanco_ver3.vps?appver3=wWsk24ZWJSTZKsGd1RMKlg0BDvsSG3VIWQCPJNNxD8upkiY7JlDavDsozUE7KG0nFx2NSo8LdUKGuGuF396vbWH3TIA8XXMyXqcNUI53UrWXHubq5Z7ap5JVmPErc4ZeYHCKCZhESjGNQmZ5B-6dx0tDU89pDxCaZy75yKfIq4U=&ver=3
 site_navbar_img: /img/logo-nav.png
@@ -29,4 +28,4 @@ menu:
       url: 'https://www.instagram.com/ptdiocese/'
     - name: Email
       pre: <i class='fa fa-envelope'></i>
-      url: 'mailto:stjoe@chipley.ptdiocese.org'
+      url: 'mailto:stanne@stannemar.ptdiocese.org'
