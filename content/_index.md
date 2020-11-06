@@ -2,8 +2,8 @@
 title: Home
 jumbotron_bg_img: /img/st.-anne-marianna.png
 jumbotron_logo_img: /img/st.-anne-marianna.png
-alert: false
-alert_announcement: ''
+alert: true
+alert_announcement: Happy Veterans Day
 welcome_message_heading: 'WELCOME TO ST. ANNE PARISH, in MARIANNA, FLORIDA'
 welcome_message: >-
   We, the parish community of St. Anne, in Marianna, Florida, seek to reach out
