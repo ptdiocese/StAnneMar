@@ -3,7 +3,7 @@ title: Home
 jumbotron_bg_img: /img/st.-anne-marianna.png
 jumbotron_logo_img: /img/st.-anne-marianna.png
 alert: true
-alert_announcement: ''
+alert_announcement: 'Mass on Thanksgiving Day at 7:00 AM'
 welcome_message_heading: 'WELCOME TO ST. ANNE PARISH, in MARIANNA, FLORIDA'
 welcome_message: >-
   We, the parish community of St. Anne, in Marianna, Florida, seek to reach out
