@@ -3,9 +3,7 @@ title: Home
 jumbotron_bg_img: /img/st.-anne-marianna.png
 jumbotron_logo_img: /img/st.-anne-marianna.png
 alert: true
-alert_announcement: >-
-  Vigil Mass on Monday, Dec 7th at 5:30 PM for the Immaculate Conception of the
-  Blessed Virgin Mary
+alert_announcement: 'Penance Service on Wednesday, December 16th after 5:30 PM Mass'
 welcome_message_heading: 'WELCOME TO ST. ANNE PARISH, in MARIANNA, FLORIDA'
 welcome_message: >-
   We, the parish community of St. Anne, in Marianna, Florida, seek to reach out
