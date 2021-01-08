@@ -3,9 +3,7 @@ title: Home
 jumbotron_bg_img: /img/st.-anne-marianna.png
 jumbotron_logo_img: /img/st.-anne-marianna.png
 alert: true
-alert_announcement: >-
-  Christmas Vigil at 5:30 PM for the Solemnity of Mary on Thursday, Dec 31; Mass
-  at 7:00 AM on January 1, 2021
+alert_announcement: ''
 welcome_message_heading: 'WELCOME TO ST. ANNE PARISH, in MARIANNA, FLORIDA'
 welcome_message: >-
   We, the parish community of St. Anne, in Marianna, Florida, seek to reach out
