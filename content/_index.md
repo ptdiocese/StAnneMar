@@ -3,8 +3,8 @@ title: Home
 jumbotron_bg_img: /img/st.-anne-marianna.png
 jumbotron_logo_img: /img/st.-anne-marianna.png
 alert: true
-alert_announcement: ''
-welcome_message_heading: 'WELCOME TO ST. ANNE PARISH, in MARIANNA, FLORIDA'
+alert_announcement: 'Martin Luther King Jr. Day, January 18, 2021'
+welcome_message_heading: ''
 welcome_message: >-
   We, the parish community of St. Anne, in Marianna, Florida, seek to reach out
   to all of God`s children and to foster a friendly and supportive community
