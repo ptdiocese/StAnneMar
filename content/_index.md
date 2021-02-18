@@ -3,7 +3,7 @@ title: Home
 jumbotron_bg_img: /img/st.-anne-marianna.png
 jumbotron_logo_img: /img/st.-anne-marianna.png
 alert: true
-alert_announcement: 'Ash Wednesday Mass will be on February 17th at 5:30 PM'
+alert_announcement: 'Lent Penance on Wednesday, February 24th after 5:30 PM Mass'
 welcome_message_heading: ''
 welcome_message: >-
   We, the parish community of St. Anne, in Marianna, Florida, seek to reach out
