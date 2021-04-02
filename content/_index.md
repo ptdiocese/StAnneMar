@@ -3,7 +3,9 @@ title: Home
 jumbotron_bg_img: /img/st.-anne-marianna.png
 jumbotron_logo_img: /img/st.-anne-marianna.png
 alert: true
-alert_announcement: 'Easter Vigil at St Joseph the Worker at 8:00 PM'
+alert_announcement: >-
+  Easter Vigil at St Joseph the Worker at 8:00 PM; Easter Mass at 8:30 AM at St.
+  Anne
 welcome_message_heading: ''
 welcome_message: >-
   We, the parish community of St. Anne, in Marianna, Florida, seek to reach out
