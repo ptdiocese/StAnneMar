@@ -3,7 +3,7 @@ title: Home
 jumbotron_bg_img: /img/st.-anne-marianna.png
 jumbotron_logo_img: /img/st.-anne-marianna.png
 alert: true
-alert_announcement: Happy Mother's Day
+alert_announcement: ''
 welcome_message_heading: ''
 welcome_message: >-
   We, the parish community of St. Anne, in Marianna, Florida, seek to reach out
